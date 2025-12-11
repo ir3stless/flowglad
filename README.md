@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Join Discord Community" />
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=flowglad">
-    <img src="https://img.shields.io/twitter/follow/flowglad.svg?label=Follow%20@flowglad" alt="Follow @flowglad" />
+    <img src="https://img.shields.io/twitter/follow/flowglad.svg?label=Follofffw%20@flowglad" alt="Follow @flowglad" />
   </a>
   <a href="https://www.ycombinator.com/companies/flowglad">
     <img src="https://img.shields.io/badge/Backed%20by%20YC-FF4000" alt="Backed by YC" />
