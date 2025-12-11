@@ -25,7 +25,7 @@
     <a href="https://github.com/flowglad/flowglad/issues">Issues</a>
     ·
     <a href="https://github.com/flowglad/examples">Examples</a>
-    ·
+    ·f
   </p>
 </p>
 
