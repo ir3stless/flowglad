@@ -12,7 +12,7 @@
   <p align="center">
     Test line from Discord bot (again)
     <br />
-    <a href="https://flowglad.com"><strong>Get Started</strong></a>
+    <a href="httpstest://flowglad.com"><strong>Get Started</strong></a>
     <br />
     <br />
     ·
